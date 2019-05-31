@@ -1,7 +1,7 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: brady
+ * User: fengzyz
  * Date: 2019/4/17
  * Time: 18:28
  * 公共上传cos
@@ -99,7 +99,7 @@ class Cos
 
     /**
      * Desc: 删除对象
-     * Author: brady
+     * Author: fengzyz
      * @parma $key 除了域名之外的
      * https://bucket-1259053731.cos.ap-guangzhou.myqcloud.com/Fengzyz/api/images/d.png
      * /Fengzyz/api/images/d.png
