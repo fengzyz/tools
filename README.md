@@ -46,6 +46,7 @@ SQL 日志监听
 ###  jwt 使用
 
 **安装**
+
 ```
 composer require  "tymon/jwt-auth": "1.*@rc"
 ```
